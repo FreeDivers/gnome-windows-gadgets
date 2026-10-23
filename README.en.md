@@ -21,7 +21,7 @@ sudo apt install gettext
 python3 scripts/install.py
 ```
 
-The installer uses your user extension directory and backs up any existing version. After an update, save your work, log out and log back in; disabling and re-enabling may still use the old code. The installer will not log you out or restart the desktop.
+The installer uses your user extension directory and backs up any existing version. After an update, log out and log back in.
 
 If the extension is not enabled after login, run:
 
@@ -29,7 +29,7 @@ If the extension is not enabled after login, run:
 gnome-extensions enable classic-gadgets@FreeDivers.github.io
 ```
 
-To uninstall, run `python3 scripts/uninstall.py`. Personal data, including notes, contacts and layouts, is kept.
+To uninstall, run `python3 scripts/uninstall.py`. Personal data is kept.
 
 ## Use
 
