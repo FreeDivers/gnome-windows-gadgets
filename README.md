@@ -21,7 +21,7 @@ sudo apt install gettext
 python3 scripts/install.py
 ```
 
-扩展会安装到当前用户目录，已有版本会先备份。更新后请保存工作，注销并重新登录；只禁用再启用可能仍会使用旧代码。安装脚本不会替你注销或重启桌面。
+扩展会安装到当前用户目录，已有版本会先备份。更新后请注销并重新登录。
 
 如果登录后没有启用，运行：
 
@@ -29,7 +29,7 @@ python3 scripts/install.py
 gnome-extensions enable classic-gadgets@FreeDivers.github.io
 ```
 
-卸载用 `python3 scripts/uninstall.py`，便笺、联系人和布局等个人数据会保留。
+卸载用 `python3 scripts/uninstall.py`，布局等个人数据会保留。
 
 ## 怎么用
 
