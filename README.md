@@ -1,5 +1,7 @@
 ⚠️本项目是由 AI 生成的。⚠️
 
+这个扩展不会上线 GNOME 的扩展市场，因为 GNOME 写的扩展上线规范好像不支持 AI 生成的扩展。
+
 # Windows Vista/7 小组件
 
 简体中文 | [English](README.en.md)
