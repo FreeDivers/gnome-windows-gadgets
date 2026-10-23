@@ -46,7 +46,3 @@ From the project root, run:
 npm test
 npm run build
 ```
-
-## License
-
-The new adapter code and documentation use the [MIT license](LICENSE). Microsoft and Rectify11 skin assets are not covered by MIT. Packages containing those assets are for local testing; check the relevant permissions before distributing them. See the [asset notice](ASSET-NOTICE.md) (in Chinese).
