@@ -45,7 +45,3 @@ gnome-extensions enable classic-gadgets@FreeDivers.github.io
 npm test
 npm run build
 ```
-
-## 许可
-
-新写的适配代码和文档采用 [MIT 许可证](LICENSE)。微软及 Rectify11 的皮肤素材不在 MIT 范围内；含素材的安装包用于本机测试，公开分发前需核实授权。详见[素材来源与许可](ASSET-NOTICE.md)。
